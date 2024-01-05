@@ -29,7 +29,7 @@
 
 - 📈 I have ingrained continuous learning attitude in my self because life never stops teaching
 
-- 💻 Find more about me at:- [shantayyaswami.info](http:shantayyaswami.info)
+- 💻 Find more about me at:- [shantayyaswami.info](http:dhsoni.info)
 
 - 😌 Currently I am focused to "Learn new technologies and improving my skill set"
 
