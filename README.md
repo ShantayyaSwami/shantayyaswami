@@ -17,7 +17,7 @@
 
 ## ⚡ Certifications 
 
-   - AWS:- [Solution Architect](https://drive.google.com/file/d/1AaCJ-p1tVeyGIqJHsOra04Q5v9dukhNg/view?usp=sharing), [SysOps Administrator](https://drive.google.com/file/d/1qA76FJ57ZBJ_RCURuW-w1g7HCx3DiHAk/view?usp=sharing)
+   - AWS:- [Solution Architect](https://drive.google.com/file/d/1fQ2lvK_jHuqFrOniSUZyalv4_Ep5WTQ-/view?usp=sharing), [SysOps Administrator](https://drive.google.com/file/d/1HKvvk2E0zFQy2WltWI59fjIiPu1oVfQq/view?usp=sharing)
 
    
 <br>
