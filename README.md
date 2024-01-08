@@ -13,6 +13,7 @@
    <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="RHEL" width="40" height="40"/> </a>&nbsp; 
     <a href="https://maven.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" width="40" height="40"/> </a> &nbsp; 
     <a href=https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a> &nbsp; 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp; 
     <a href=https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a> </p>
 
 ## ⚡ Certifications 
