@@ -1,4 +1,4 @@
-## 👋 Hi there! I am Shantayya Swami
+## 👋 Hi there! I am Shhantayya Swami
     💻 Working as a Senior DevOps Engineer at Worldpay India.
 <h3 align="left">Experienced with:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> &nbsp; 
